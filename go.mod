@@ -42,6 +42,7 @@ require (
 	github.com/pkg/errors v0.8.0
 	github.com/sabhiram/go-git-ignore v0.0.0-20171017070213-362f9845770f
 	github.com/satori/go.uuid v1.2.0
+	github.com/shirou/gopsutil v3.21.10+incompatible
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4 // indirect
 	github.com/sirupsen/logrus v1.3.0 // indirect
 	github.com/spf13/afero v1.0.2 // indirect
@@ -55,6 +56,7 @@ require (
 	github.com/theothertomelliott/must v0.0.0-20161223163453-883760f0acf9
 	github.com/theothertomelliott/struct2struct v0.0.0-20180301035006-372ebe1f48e2
 	github.com/theothertomelliott/uilive v0.0.0-20170420192653-e481c8e66f15
+	github.com/tklauser/go-sysconf v0.3.9 // indirect
 	golang.org/x/net v0.0.0-20210428140749-89ef3d95e781 // indirect
 	gopkg.in/fsnotify.v1 v1.4.7
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0-20170531160350-a96e63847dc3

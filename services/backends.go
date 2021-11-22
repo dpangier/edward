@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/theothertomelliott/gopsutil-nocgo/process"
+	"github.com/shirou/gopsutil/process"
 )
 
 type Backend interface {

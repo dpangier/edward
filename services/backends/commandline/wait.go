@@ -4,8 +4,8 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-	"github.com/theothertomelliott/gopsutil-nocgo/net"
-	"github.com/theothertomelliott/gopsutil-nocgo/process"
+	"github.com/shirou/gopsutil/net"
+	"github.com/shirou/gopsutil/process"
 	"github.com/yext/edward/instance"
 )
 

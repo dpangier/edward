@@ -8,7 +8,7 @@ import (
 	"syscall"
 
 	"github.com/pkg/errors"
-	"github.com/theothertomelliott/gopsutil-nocgo/process"
+	"github.com/shirou/gopsutil/process"
 )
 
 type Processes struct {
