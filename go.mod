@@ -1,4 +1,4 @@
-module github.com/yext/edward
+module github.com/dpangier/edward
 
 go 1.13
 
